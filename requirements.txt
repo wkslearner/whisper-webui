@@ -1,0 +1,3 @@
+openai-whisper
+gradio
+opencc-python-reimplemented
